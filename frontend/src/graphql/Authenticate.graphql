@@ -1,0 +1,9 @@
+query Authenticate {
+  authenticatedItem {
+    ... on User {
+      id
+      name
+      email
+    }
+  }
+}

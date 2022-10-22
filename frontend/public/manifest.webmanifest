@@ -1,0 +1,14 @@
+{
+  "background_color": "none",
+  "display": "standalone",
+  "name": "Mood Tracker",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Mood Tracker",
+  "start_url": "/",
+  "theme_color": "none",
+  "categories": [],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": []
+}
